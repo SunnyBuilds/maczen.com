@@ -1,0 +1,52 @@
+{
+  "name": "Theme for camera",
+  "niche": "camera",
+  "colors": {
+    "primary": "oklch(68.5% 0.15 35)",
+    "primary-foreground": "oklch(97% 0.01 0)",
+    "secondary": "oklch(85% 0.08 270)",
+    "secondary-foreground": "oklch(25% 0.01 0)",
+    "accent": "oklch(72% 0.2 60)",
+    "accent-foreground": "oklch(98% 0.01 0)",
+    "background": "oklch(100% 0 0)",
+    "foreground": "oklch(20% 0.02 0)",
+    "muted": "oklch(93% 0.02 0)",
+    "muted-foreground": "oklch(46% 0.03 0)",
+    "border": "oklch(88% 0.03 0)",
+    "ring": "oklch(68.5% 0.15 35)",
+    "card": "oklch(98% 0.01 0)",
+    "card-foreground": "oklch(20% 0.02 0)",
+    "popover": "oklch(98% 0.01 0)",
+    "popover-foreground": "oklch(20% 0.02 0)",
+    "destructive": "oklch(60% 0.25 10)",
+    "destructive-foreground": "oklch(100% 0 0)"
+  },
+  "colors_dark": {
+    "primary": "oklch(55% 0.18 35)",
+    "primary-foreground": "oklch(98% 0.01 0)",
+    "secondary": "oklch(40% 0.12 270)",
+    "secondary-foreground": "oklch(95% 0.01 0)",
+    "accent": "oklch(60% 0.25 60)",
+    "accent-foreground": "oklch(98% 0.01 0)",
+    "background": "oklch(8% 0 0)",
+    "foreground": "oklch(95% 0.01 0)",
+    "muted": "oklch(15% 0.02 0)",
+    "muted-foreground": "oklch(60% 0.03 0)",
+    "border": "oklch(20% 0.03 0)",
+    "ring": "oklch(55% 0.18 35)",
+    "card": "oklch(12% 0.01 0)",
+    "card-foreground": "oklch(95% 0.01 0)",
+    "popover": "oklch(12% 0.01 0)",
+    "popover-foreground": "oklch(95% 0.01 0)",
+    "destructive": "oklch(50% 0.30 10)",
+    "destructive-foreground": "oklch(100% 0 0)"
+  },
+  "fonts": {
+    "heading": "Inter",
+    "body": "Inter",
+    "mono": "JetBrains Mono"
+  },
+  "reasoning": "The color palette uses a primary hue of a muted orange/amber, evoking a sense of warmth, nostalgia (film photography), and trust. A desaturated blue/purple acts as a secondary color for a modern, tech-oriented feel. The accent color is a slightly brighter yellow/green, drawing attention to important elements without being overwhelming. The background is a clean white (light) or very dark gray (dark), keeping the focus on the content. The fonts Inter and JetBrains Mono provide a clean, modern, and highly readable user experience.",
+  "generated_at": "2025-12-16T14:15:55.099655Z",
+  "generated_by": "beginos"
+}
